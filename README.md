@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Devendra Bhadauria
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning various technology like openshift,Terraform,Ansible
+-\
